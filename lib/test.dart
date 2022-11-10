@@ -70,7 +70,7 @@ class _DataState extends State<Data> {
                   Image.asset('assets/images/e.png', width: 40, height: 40),
                   SizedBox(width: 16.0),
                   Expanded(
-                    child: Text('Theodoramaher@gmail,com',
+                    child: Text('theo@gmail,com',
                         overflow: TextOverflow.ellipsis,
                         style: TextStyle(fontSize: 30.0,
                           fontWeight: FontWeight.normal,)
